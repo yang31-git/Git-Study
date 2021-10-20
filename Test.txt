@@ -4,5 +4,6 @@ third
 four
 five
 add five
+<<<<<<< HEAD
 delete five   master test
-hot-fix:first add and commit
+hot-fix:first add and commit hot-fix Test
